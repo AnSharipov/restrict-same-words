@@ -2,4 +2,6 @@
 
 In terminal input:
 
+``` shell
 python restrict.py file.txt
+```
